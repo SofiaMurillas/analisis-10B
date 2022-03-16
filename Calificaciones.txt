@@ -1,0 +1,8 @@
+Taller 1: Nota 4.7
+    * la variable grado debía inicializarse
+    * lineas 7, 13 y 20 innecesarias
+
+Taller 7: Nota 4.6
+    * linea 8, debió ser lado en vez de area
+    * linea 67, operacion incorrecta
+    * linea 72, operacion incorrecta
