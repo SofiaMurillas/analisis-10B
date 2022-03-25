@@ -1,3 +1,6 @@
+
+Karla Maldonado, Sofia Murillas
+
 Taller 1: Nota 4.7
     * la variable grado debía inicializarse
     * lineas 7, 13 y 20 innecesarias
@@ -6,3 +9,7 @@ Taller 7: Nota 4.6
     * linea 8, debió ser lado en vez de area
     * linea 67, operacion incorrecta
     * linea 72, operacion incorrecta
+
+Taller 3: Nota 4.7 Hubo dos errores, no obtienen 5. taller 2 en 5 y el primero en 4.7
+    * Linea 24 debia pedir horas y no minutos
+    * Punto 3, operacion incorrecta
