@@ -11,3 +11,30 @@ console.log(miPrimerArreglo[0]);
 //primero se accede a la posicion del acceso mas grande y luego a las posiciones de los arreglos internos
 console.log(notaEst[0][1]);
 console.log(notaEst[1][0]);
+
+notaEst[1][0]="Laura";
+console.log(notaEst[1]);
+ 
+miPrimerArreglo [1] = 18;
+console.log(miPrimerArreglo [1]);
+notaEst [[0][1]] = 4.8;
+console.log ( notaEst[[0][1]]);
+
+
+miPrimerArreglo.push("10B");
+console.log(miPrimerArreglo);
+miPrimerArreglo.unshift("Gomez");
+console.log(miPrimerArreglo);
+
+
+var arreglo2 = ["analisis", "tecnologia", "desarrollo"];
+console.log (arreglo2);
+arreglo2[2] = "BBDD";
+console.log (arreglo2);
+arreglo2.unshift("introduccion");
+arreglo2.pop();
+console.log(arreglo2);
+
+
+
+
