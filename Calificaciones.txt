@@ -13,3 +13,6 @@ Taller 7: Nota 4.6
 Taller 3: Nota 4.7 Hubo dos errores, no obtienen 5. taller 2 en 5 y el primero en 4.7
     * Linea 24 debia pedir horas y no minutos
     * Punto 3, operacion incorrecta
+
+Arreglos (observaciones generales del archivo): Nota 4.6
+    * hace falta código: cambiar Jose por mario, comentarios, eliminar datos
