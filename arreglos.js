@@ -26,7 +26,7 @@ console.log(miPrimerArreglo);
 miPrimerArreglo.unshift("Gomez");
 console.log(miPrimerArreglo);
 
-
+//quiz
 var arreglo2 = ["analisis", "tecnologia", "desarrollo"];
 console.log (arreglo2);
 arreglo2[2] = "BBDD";
