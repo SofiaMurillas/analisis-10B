@@ -1,0 +1,19 @@
+- karla Maldonado
+- sofia Murillas
+- sofia restrepo
+
+¿Cual es la problematica?
+R/ Al muchos estudiantes no tener la facilidad de contar con una persona que les ayude cuando tienen dudas sobre temas que se tocan en clase, puede que a veces se dificulte la realizacion de tareas o examenes, ya seaporque no entienden o sienten que no cuentan con ayudas suficientes para repasar o desarrollar estos ejercicios en clases
+
+¿Como las solucionarian?
+decidimos crear una pagina en la cual la comunidad nazarena pueda, en el caso de los estudiantes encontrar personas (estudiantes de grados superiores dispuestos a colaborar) o talleres y ayudas que puedan dejar los mismos profesores, para que los desarrollen ya sea en casa o en horas de las clases de sistemas
+en esta pagina podriamos registrarnos con 3 roles
+    - estudiantes de 1 a 9
+    - estudiantes de 9 a 11
+    - profesores y directivos
+cada uno de ellos cumpliría una funcion
+- en el caso de los estudiantes mas pequeños pueden solicitar ayuda a estudiantes de grados superiores, ver materiales de trabajo y/o desarrollar los talleres que sus profesores les puedan poner
+- en el caso de estudiantes mas grandes, pueden tanto pedir ayuda y usar los materiales que les brinden sus profesores, y tambien se les brindaría la opcion de ayudar a otros estudiantes, por medio de refuerzos que serian realizados en el colegio (sea dentro o fuera de la jornada) y se les sumaria a sus horas de labor social
+- por ultimo, por parte de los profesores esta pagina les serviría para dejar ya sea material de apoyo para los estudiantes (preesentaciones, juegos online relacionados a los temas, videos) o tambien para dejar instrucciones de tareas o trabajos (sean obligatorios o no)
+
+empezariamos usando areas especificas como matematicas, y en el proceso agregariamos otras materias tambien importantes
