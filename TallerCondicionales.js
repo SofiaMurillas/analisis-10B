@@ -90,7 +90,7 @@ if(diapoli == "lunes" || diapoli == "martes" || diapoli == "miercoles" || diapol
     console.log(" Hoy no les corresponde el polideportivo, su dia es el jueves");
 }
 
-//console.log("Solucion #10");
+console.log("Solucion #10");
 
 //Desarrolle un algoritmo que dados dos valores numéricos entregue 
 //el resultado de la división entre ambos, recuerde que la división 
@@ -102,8 +102,49 @@ var divisor = 0;
 var resultadoo;
 resultadoo = dividendo / divisor;
 
-if(resultadoo){	
-    console.log("Lo siento, Esta division no tiene solucion");
-}else if(resultadoo>1){
-  console.log("El resultado de la division es " +resultadoo);
+if(divisor==0 || dividendo == 0){
+    console.log("No se puede hacer la division")
+}	
+else {
+    console.log("El resultado de la division es : " +resultadoo)
 }
+
+console.log("Solucion #11");
+
+//Un restaurante desea proyectar en una pantalla su plato especial 
+//del día para que sea visible y llamativo para el público. Pero, 
+//la dueña quiere que el plato cambie automáticamente cada día para 
+//que ella pueda dedicarse a cuestiones más importantes. Por el momento,
+//para las pruebas, el programador o sea usted declara una variable cuyo 
+//valor es un día de la semana y así evaluar el funcionamiento. Desarrolle 
+//un algoritmo que dado el día imprima el plato especial según la siguiente tabla:
+
+var diaplato= "martes";
+ 
+if(diaplato == "lunes" ){
+    console.log(" El plato del dia es Arroz con Pollo");
+}else if(diaplato == "martes" ){
+    console.log(" El plato del dia es Chuleta de Cerdo/Pollo");
+}else if(diaplato == "miercoles" ){
+    console.log(" El plato del dia es Fríjoles");
+}else if(diaplato == "jueves" ){
+    console.log(" El plato del dia es Sancocho de Pescado");
+}else if(diaplato == "viernes" ){
+    console.log(" El plato del dia es Bandeja Paisa");
+}else if(diaplato == "sabado" ){
+    console.log(" El plato del dia es Ajiaco");
+}else if(diaplato == "domingo" ){
+    console.log(" El plato del dia es Sancocho de Gallina");    
+}
+
+console.log("Solucion #12");
+
+var caracter = "b";
+
+if(caracter == "a" || caracter=="e" || caracter=="i" ||caracter== "o" || caracter=="u"){
+console.log("El caracter es una vocal");    
+}else if (caracter == 1 ||caracter== 2 ||caracter== 3 ||caracter== 4 ||caracter==5 ||caracter== 6 ||caracter== 7 ||caracter== 8 || caracter==9 || caracter==0){
+console.log("El caracter es un numero");
+}else 
+console.log("El caracter es una consonante");
+
