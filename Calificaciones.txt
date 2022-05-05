@@ -22,3 +22,9 @@ Arreglos (observaciones generales del archivo): Nota 4.6
 **************************** segundo periodo
 
 Enlace examen: https://acortar.link/WAVSjX
+
+
+Examen: Nota 1.45
+    * linea 27, incorrecto debía comparar ==="1" como cadena o String
+    * linea 38, incorrecta debía ser "1" para que sea igual en valor y tipo
+    * punto 4, 5 y 6 no estan resueltos
