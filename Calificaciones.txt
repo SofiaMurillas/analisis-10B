@@ -29,9 +29,10 @@ Examen: Nota 1.45
     * linea 38, incorrecta debía ser "1" para que sea igual en valor y tipo
     * punto 4, 5 y 6 no estan resueltos
 
-Taller condicionales: Nota 4.2
+Taller condicionales: Nota 3.9
     * linea 41, condicional incompleta
     * linea 55, los números 50 y 80 se deben tomar. Falta un &
     * linea 58, falta un &
+    * No hay solución del punto 6, 7 y 8
     * La condicion de la linea 88 nunca se va a tomar, además no tiene sentido
     * Punto 10, la intención es que evalue el valor del divisor antes de realizar la operacion para no generar un error por division entre cero
