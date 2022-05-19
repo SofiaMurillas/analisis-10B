@@ -64,8 +64,3 @@ while(intento != rifa){
     intento=prompt("lo lamento, siguiente turno");
 }
 console.log("felicidades gano la rifa");
-
-console.log("Punto #8");
-var acu2=0;
-var cont=0;
-var numEst = prompt 
