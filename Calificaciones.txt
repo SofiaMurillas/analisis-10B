@@ -36,3 +36,7 @@ Taller condicionales: Nota 3.9
     * No hay solución del punto 6, 7 y 8
     * La condicion de la linea 88 nunca se va a tomar, además no tiene sentido
     * Punto 10, la intención es que evalue el valor del divisor antes de realizar la operacion para no generar un error por division entre cero
+
+Taller ciclos: Nota 4.5
+    * linea 31, un número para qué?
+    * Punto 7, no cuenta la cantidad de veces o turnos que demoro en adivinar
