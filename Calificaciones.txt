@@ -41,6 +41,6 @@ Taller ciclos: Nota 4.5
     * linea 31, un número para qué?
     * Punto 7, no cuenta la cantidad de veces o turnos que demoro en adivinar
 
-Examen Ciclo while: Nota
+Examen Ciclo while: Nota 5
     * linea 50, es = en vez de -
     * si es menor a 8 la cantidad de articulos, no dice cuánto debe pagar
