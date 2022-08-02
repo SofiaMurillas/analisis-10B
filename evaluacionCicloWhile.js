@@ -52,3 +52,5 @@ console.log ("Al aplicar el descuento del 15% el total a pagar es de"+pfinal*0.8
 else if (contad>=25){
 console.log("Al aplicar el descuento del 20% el total a pagar es de" +pfinal*0.8) 
 }
+
+console.log ("Punto #5    ")
