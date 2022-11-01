@@ -44,3 +44,8 @@ Taller ciclos: Nota 4.5
 Examen Ciclo while: Nota 5
     * linea 50, es = en vez de -
     * si es menor a 8 la cantidad de articulos, no dice cuánto debe pagar
+
+
+Geometría:
+    Nota: 4.6
+        Debe tener en cuenta si el usuario selecciona una opcion no válida
