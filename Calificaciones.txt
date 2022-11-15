@@ -49,3 +49,11 @@ Examen Ciclo while: Nota 5
 Geometría:
     Nota: 4.6
         Debe tener en cuenta si el usuario selecciona una opcion no válida
+
+
+cuarto periodo:
+
+taller1:
+    nota: 4.2
+    * lineas 22 y 26 no puede usar <li> porque deben estar dentro de un <ul> o <ol>
+    * linea 37, debe utilizar <ul> o <ol> para que sea lista
